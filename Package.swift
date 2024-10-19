@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "TokenFromKeychain",
+    name: "swift-token-from-keychain",
     products: [
         .library(
             name: "TokenFromKeychain",
